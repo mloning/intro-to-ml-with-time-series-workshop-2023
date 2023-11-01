@@ -12,11 +12,12 @@ You will learn about:
 * How to identify different time series learning problems,
 * How to build machine learning models to solve these problems.
 
-There are various Python packages for machine learning with time series (see this [overview](https://www.sktime.net/en/latest/related_software.html). For this workshop, we're mainly using [aeon].
+There are various Python packages for machine learning with time series (see this [overview](https://www.sktime.net/en/latest/related_software.html)). For this workshop, we're mainly using [aeon], a fork of [sktime]. 
 
 We assume familiarity with the standard tabular machine learning setting covered by [scikit-learn], but no prior experience of working with time series.
 
 [aeon]: https://github.com/aeon-toolkit/aeon
+[sktime]: https://github.com/sktime/sktime
 [scikit-learn]: https://scikit-learn.org/stable/
 
 ## How to get started
