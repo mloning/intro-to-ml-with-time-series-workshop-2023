@@ -1,5 +1,4 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mloning/intro-to-ml-with-time-series-workshop-2023/HEAD)
-
 <a target="_blank" href="https://colab.research.google.com/github/mloning/intro-to-ml-with-time-series-workshop-2023">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
