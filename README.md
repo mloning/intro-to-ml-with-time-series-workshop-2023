@@ -31,9 +31,9 @@ You can run the notebooks on [Binder] without having to install anything.
 
 Alternatively, you can [clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) this repository and run the notebooks locally. This requires a working Python installation (e.g. [Anaconda distribution](https://docs.anaconda.com/anaconda/install/)) with [Jupyter notebooks](https://jupyter.org/install). Additional requirements are in [.binder/requirements.txt](https://github.com/mloning/intro-to-ml-with-time-series-workshop-2023/blob/main/.binder/requirements.txt).
 
-## How to join open source communities
+## How to continue learning in open source communities
 
-* Engage on GitHub (report bugs, good first issues), join community channels/calls
+* [Contribute](https://opensource.guide/how-to-contribute/) to open source projects
 * [Google Summer of Code](https://summerofcode.withgoogle.com/) internships
 * [Outreachy](https://www.outreachy.org/) internships
 * [Open Life Science](https://openlifesci.org/) mentoring and training program for building open-science communities, also see [The Turing Way](https://the-turing-way.netlify.app/index.html)
